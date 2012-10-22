@@ -1,12 +1,12 @@
-/*! URL.js - v1.2.2 - 2012-10-19
-* https://github.com/stevoland/urljs
+/*! URL.js - v1.2.2 - 2012-10-22
+* https://github.com/stevoland/URL.js
  Licensed MIT */
 
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         define([], factory);
     } else {
-        root.uri = factory();
+        root.URL = factory();
     }
 }(this, function () {
 
