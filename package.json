@@ -35,5 +35,8 @@
 	],
 	"devDependencies": {
 		"grunt": "~0.3.15"
+	},
+	"jam": {
+		"main": "dist/URL.js"
 	}
 }

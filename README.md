@@ -18,6 +18,11 @@ from the root folder
 $ bower install URL.js
 ```
 
+### JAM
+```shell
+$ jam install URL.js
+```
+
 ## Integration
 
 ### AMD
