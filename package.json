@@ -38,5 +38,6 @@
 	},
 	"jam": {
 		"main": "dist/URL.js"
-	}
+	},
+	"main": "dist/URL.js"
 }
